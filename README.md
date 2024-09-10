@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabosaurio12
-- 👀 I’m interested in C/C++, AI, and databases
-- 🌱 I’m currently learning C/C++, Python, about databases and how to develop a AI and how to use git
+- 👀 I’m interested in C/C++, Java and AI
+- 🌱 I’m currently learning about Machine Learning
 - 📫 How to reach me: You can contact me through my email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Software Engineering (my career) and volleyball
